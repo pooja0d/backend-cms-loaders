@@ -1,0 +1,21 @@
+.profile_dropdown{
+    display: flex;
+    flex-direction: column;
+    margin: 10px !important;
+}
+.profile-dropdown-link{
+    align-items: center;
+    margin: 5px 0;
+}
+
+.profile-dropdown-link > p{
+    margin-bottom: 0;
+}
+.profile-dropdown-link > a{
+    display: flex;
+    text-decoration: none;
+}
+
+.profile-dropdown-link .note_image_css{
+    margin-right: 10px;
+}
