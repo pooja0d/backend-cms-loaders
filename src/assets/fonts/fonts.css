@@ -1,0 +1,68 @@
+/* Font CSS */
+:root {
+  --font0: 0px;
+  --font10: 10px;
+  --font12: 12px;
+  --font13: 13px;
+  --font14: 14px;
+  --font16: 16px;
+  --font18: 18px;
+  --font20: 20px;
+  --font21: 21px;
+  --font22: 22px;
+  --font24: 24px;
+  --font32: 32px;
+  --font30: 30px;
+  --font34: 34px;
+  --font48: 48px;
+  --font64: 64px;
+  --fontFamilyRegular: "RobotoRegular";
+  --fontFamilyBold: "RobotoBold";
+  --fontFamilyMedium: "RobotoMedium";
+  --brandColor: #b024bb;
+  --backgroundColor: #ffffff;
+  --backgroundColorOne: #00000050;
+  --backgroundColorTwo: #eee;
+  --backgroundColorThree: #f0f2fa;
+  --backgroundColorFour: #f32013;
+  --backgroundColorFive: #eff0f6;
+  --backgroundColorSix: #b024bb;
+  --backgroundColorSeven: #ffffff;
+  --backgroundColorEight: #e3daf9;
+  --fontColorOne: #171717;
+  --fontColorTwo: #fff;
+  --fontColorThree: #b9b9b9;
+  --fontColorFour: #eff0f6;
+  --fontColorFive: #767676;
+  --fontColorSix: #d6d7e3;
+  --fontColorSeven: #000000;
+  --fontColorEight: #676a8e;
+  --fontColorNine: #444;
+  --fontColorTen: #ffffff;
+  --fontColorEleven: #d6d7e3;
+  --fontColorTwelve: #eeeeee;
+  --fontColorThirteen: #ffffff;
+  --fontColorFourteen: #000000;
+  /* --fontFamilyRegular: "WorksansNormal"; --fontFamilyBold: "WorksansBold"; --fontFamilyMedium: "WorksansMedium"; */
+}
+@font-face {
+  /* font-family: "WorksansNormal"; src: url(../fonts/WorkSans/static/WorkSans-Light.ttf) format(truetype); */
+  font-family: "RobotoRegular";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  /* font-family: "WorksansBold"; src: url("../fonts/WorkSans/static/WorkSans-Bold.ttf") format("truetype"); */
+  font-family: "RobotoBold";
+  src: url("../fonts/Roboto/Roboto-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: bold;
+}
+@font-face {
+  /* font-family: "WorksansMedium"; src: url("../fonts/WorkSans/static/WorkSans-Regular.ttf") format("truetype"); */
+  font-family: "RobotoMedium";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  font-weight: 900;
+  font-style: medium;
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="61" viewBox="0 0 64 61">
+  <defs>
+    <clipPath id="clip-Artboard_27">
+      <rect width="64" height="61"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_27" data-name="Artboard – 27" clip-path="url(#clip-Artboard_27)">
+    <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" d="M10.562,5.562a5,5,0,1,1-5-5A5,5,0,0,1,10.562,5.562ZM4.984,8.21,8.694,4.5a.323.323,0,0,0,0-.456l-.456-.456a.323.323,0,0,0-.456,0L4.756,6.613,3.344,5.2a.323.323,0,0,0-.456,0l-.456.456a.323.323,0,0,0,0,.456l2.1,2.1A.323.323,0,0,0,4.984,8.21Z" transform="translate(26.438 25.438)" fill="#46be13"/>
+  </g>
+</svg>

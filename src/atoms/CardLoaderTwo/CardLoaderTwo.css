@@ -1,0 +1,45 @@
+/* Card Loader Two Atom CSS */
+
+.card_loader_two_content_loader_box {
+    width: 100% !important;
+    max-width: 271px !important;
+    height: 263px !important;
+    background: #ffff 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 6px !important;
+    opacity: 0.8 !important;
+    margin-bottom: 20px !important;
+    padding: 0px 0px 0px 0px !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+.exh_team_elem_one {
+    x: 93.14 !important;
+    y: 27.14 !important;
+    width: 85.71px !important;
+    height: 85.71px !important;
+}
+.exh_team_elem_two {
+    x: 66 !important;
+    y: 130 !important;
+    width: 140px !important; 
+    height: 25px !important;
+}
+.exh_team_elem_three {
+    x: 114 !important;
+    y: 160 !important;
+    width: 45px !important; 
+    height: 20px !important;
+}
+.exh_team_elem_four {
+    x: 20 !important;
+    y: 185 !important;
+    width: 231px !important;
+    height: 34px !important;
+}
+.exh_team_elem_five {
+    x: 114 !important; 
+    y: 227 !important;
+    width: 45px !important; 
+    height: 34px !important;
+}

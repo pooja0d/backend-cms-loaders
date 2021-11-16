@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#545454"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_ionic-logo-linkedin" data-name="Icon ionic-logo-linkedin" d="M29.341,4.5H6.807A2.2,2.2,0,0,0,4.5,6.6V29.186A2.376,2.376,0,0,0,6.807,31.5H29.334A2.255,2.255,0,0,0,31.5,29.186V6.6A2.07,2.07,0,0,0,29.341,4.5ZM12.869,27.006H9V14.979h3.868Zm-1.8-13.855h-.028A1.985,1.985,0,0,1,9,11.076,2,2,0,0,1,11.09,9a1.992,1.992,0,0,1,2.068,2.075A2,2,0,0,1,11.069,13.151ZM27.006,27.006H23.138V20.43c0-1.575-.563-2.651-1.962-2.651a2.116,2.116,0,0,0-1.983,1.428,2.6,2.6,0,0,0-.134.949v6.85H15.19V14.979h3.868v1.674A3.916,3.916,0,0,1,22.547,14.7c2.539,0,4.459,1.674,4.459,5.282v7.026Z" transform="translate(-4.5 -4.5)" fill="url(#linear-gradient)"/>
+</svg>

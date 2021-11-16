@@ -1,0 +1,17 @@
+/* Loader One View Component CSS */
+.people-loader {
+    flex-grow: 1;
+    justify-content: center;
+}
+.row-prop {
+    display: flex !important;
+    justify-content: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.new-people-margin-one {
+    margin-bottom: 20px !important;
+}
+.new-people-margin-two {
+    margin-top: 20px !important;
+}
