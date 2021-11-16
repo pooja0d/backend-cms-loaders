@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16.563" height="12.805" viewBox="0 0 16.563 12.805">
-  <g id="videoicon" transform="translate(1.198 1.942)">
-    <path id="Path_62" data-name="Path 62" d="M28.143,10.8a.6.6,0,0,0-.324.094L24.8,12.8a.3.3,0,0,0-.139.251v2.648a.3.3,0,0,0,.139.251l3.014,1.9a.626.626,0,0,0,.324.094h.725a.3.3,0,0,0,.3-.3V11.1a.3.3,0,0,0-.3-.3Z" transform="translate(-14.302 -9.908)" fill="none" stroke="#000" stroke-width="1"/>
-    <path id="Path_63" data-name="Path 63" d="M10.8,17.919H4.073A1.815,1.815,0,0,1,2.25,16.128V10.791A1.811,1.811,0,0,1,4.069,9h6.725a1.811,1.811,0,0,1,1.819,1.791v5.334A1.807,1.807,0,0,1,10.8,17.919Z" transform="translate(-2.25 -9)" fill="none" stroke="#000" stroke-width="1"/>
-    <line id="Line_70" data-name="Line 70" x2="13.664" y2="11.396" transform="translate(-0.494 -1.238)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
-  </g>
-</svg>
