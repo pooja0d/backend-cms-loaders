@@ -1,0 +1,119 @@
+/* Exhibitor Demo Room Four Atom CSS */
+
+.exh_demo_room_four_loader_box {
+    width: 100% !important;
+    max-width: 348px !important;
+    height: 128px !important;
+    background: #ffff 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 10px !important;
+    opacity: 0.8 !important;
+    margin-bottom: 30px !important;
+    padding: 0px 0px 0px 0px !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+.exh_demo_room_four_loader_elem_one {
+    x: 20 !important;
+    y: 64 !important;
+    width: 308px !important;
+    height: 44px !important;
+    border-radius: 4px !important;
+}
+
+/* Exhibitor Demo Room Four Atom Media Query CSS */
+@media (width: 360px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 258px !important;
+    }
+}
+@media (width: 411px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 258px !important;
+    }
+}
+@media (width: 320px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 258px !important;
+    }
+}
+@media (width: 375px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 258px !important;
+    }
+}
+@media (width: 414px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 258px !important;
+    }
+}
+@media (width: 540px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 280px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 653px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 640px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 568px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 667px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 720px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 731px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 736px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 823px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 245px !important;
+    }
+}
+@media (width: 812px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 245px !important;
+    }
+}
+@media (width: 768px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 230px !important;
+    }
+}
+@media (width: 1024px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+}
+@media (width: 1366px) {
+    .exh_demo_room_four_loader_elem_one {
+        width: 260px !important;
+    }
+} 

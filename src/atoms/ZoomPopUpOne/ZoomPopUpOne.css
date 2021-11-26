@@ -1,0 +1,110 @@
+/* Zoom Pop Up One Atom CSS */
+.zoom_pop_up_one_loader_box {
+    width: 100% !important;
+    max-width: 306px !important;
+    height: 383px !important;
+    background: #ffff 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 10px !important;
+    opacity: 0.8 !important;
+    margin-bottom: 30px !important;
+    padding: 0px 0px 0px 0px !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+.zoom_pop_up_one_elem_one {
+    x: 20 !important;
+    y: 118 !important;
+    width: 266px !important;
+    height: 44px !important;
+    border-radius: 8px !important;
+}
+.zoom_pop_up_one_elem_two {
+    x: 20 !important;
+    y: 226 !important;
+    width: 266px !important;
+    height: 137px !important;
+    border-radius: 8px !important;
+}
+/* Zoom Pop Up One Atom Media Query CSS */
+@media (width: 360px) {
+    .zoom_pop_up_one_elem_one {
+        width: 150px !important;
+    }
+    .zoom_pop_up_one_elem_two {
+        width: 150px !important;
+    }
+}
+@media (width: 411px) {
+    .zoom_pop_up_one_elem_one {
+        width: 150px !important;
+    }
+    .zoom_pop_up_one_elem_two {
+        width: 150px !important;
+    }
+}
+@media (width: 320px) {
+    .zoom_pop_up_one_elem_one {
+        width: 100px !important;
+    }
+    .zoom_pop_up_one_elem_two {
+        width: 150px !important;
+    }
+}
+@media (width: 375px) {
+    .zoom_pop_up_one_elem_one {
+        width: 150px !important;
+    }
+    .zoom_pop_up_one_elem_two {
+        width: 150px !important;
+    }
+}
+@media (width: 414px) {
+    .zoom_pop_up_one_elem_one {
+        width: 150px !important;
+    } 
+    .zoom_pop_up_one_elem_two {
+        width: 150px !important;
+    }
+}
+@media (width: 280px) {
+    .zoom_pop_up_one_elem_one {
+        width: 100px !important;
+    }
+    .zoom_pop_up_one_elem_two {
+        width: 150px !important;
+    }
+}
+@media (width: 540px) {
+
+}
+@media (width: 653px) {
+
+}
+@media (width: 720px) {
+
+}
+@media (width: 640px) {
+
+}
+@media (width: 568px) {
+
+}
+@media (width: 667px) {
+
+}
+/* @media (width: 823px) {
+
+}
+@media (width: 812px) {
+
+}
+@media (width: 768px) {
+
+}
+@media (width: 1024px) {
+
+}
+@media (width: 1366px) {
+
+} */

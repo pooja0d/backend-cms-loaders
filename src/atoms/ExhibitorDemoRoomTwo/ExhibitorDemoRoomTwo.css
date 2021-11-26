@@ -1,6 +1,6 @@
-/* Session Loading Three Atom CSS */
+/* Exhibitor Demo Room Two Atom CSS */
 
-.session_loader_box_three {
+.exh_demo_room_two_loader_box {
     width: 100% !important;
     max-width: 632px !important;
     height: 300px !important;
@@ -13,28 +13,28 @@
     overflow-x: hidden !important;
     overflow-y: auto !important;
 }
-.session_loader_three_elem_one {
+.exh_demo_room_two_loader_elem_one {
     x: 20 !important;
     y: 128 !important;
     width: 266px !important;
     height: 44px !important;
     border-radius: 8px !important;
 }
-.session_loader_three_elem_two {
+.exh_demo_room_two_loader_elem_two {
     x: 346 !important;
     y: 128 !important;
     width: 266px !important;
     height: 44px !important;
     border-radius: 8px !important;
 }
-.session_loader_three_elem_three {
+.exh_demo_room_two_loader_elem_three {
     x: 20 !important;
     y: 236 !important;
     width: 266px !important;
     height: 44px !important;
     border-radius: 8px !important;
 }
-.session_loader_three_elem_four {
+.exh_demo_room_two_loader_elem_four {
     x: 346 !important;
     y: 236 !important;
     width: 266px !important;
@@ -42,179 +42,179 @@
     border-radius: 8px !important;
 }
 
-/* Session Loading Three Atom Media Query CSS */
+/* Exhibitor Demo Room Two Atom Media Query CSS */
 @media (width: 360px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 140px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 170 !important;
         width: 140px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 140px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 170 !important;
         width: 140px !important;
     }
 }
 @media (width: 411px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 160px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 190 !important;
         width: 160px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 160px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 190 !important;
         width: 160px !important;
     }
 }
 @media (width: 320px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 120px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 154 !important;
         width: 120px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 120px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 154 !important;
         width: 120px !important;
     }
 }
 @media (width: 375px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 140px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 180 !important;
         width: 140px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 140px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 180 !important;
         width: 140px !important;
     }
 }
 @media (width: 414px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 150px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 200 !important;
         width: 150px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 150px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 200 !important;
         width: 150px !important;
     }
 }
 @media (width: 540px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 200px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 274 !important;
         width: 200px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 200px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 274 !important;
         width: 200px !important;
     }
 }
 @media (width: 280px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 100px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 136 !important;
         width: 100px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 100px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 136 !important;
         width: 100px !important;
     }
 }
 @media (width: 653px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 260px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 316 !important;
         width: 260px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 260px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 316 !important;
         width: 260px !important;
     }
 }
 @media (width: 640px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 250px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 316 !important;
         width: 250px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 250px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 316 !important;
         width: 250px !important;
     }
 }
 @media (width: 568px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 220px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 280 !important;
         width: 220px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 220px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 280 !important;
         width: 220px !important;
     }
 }
 @media (width: 667px) {
-    .session_loader_three_elem_one {
+    .exh_demo_room_two_loader_elem_one {
         width: 250px !important;
     }
-    .session_loader_three_elem_two {
+    .exh_demo_room_two_loader_elem_two {
         x: 336 !important;
         width: 250px !important;
     }
-    .session_loader_three_elem_three {
+    .exh_demo_room_two_loader_elem_three {
         width: 250px !important;
     }
-    .session_loader_three_elem_four {
+    .exh_demo_room_two_loader_elem_four {
         x: 336 !important;
         width: 250px !important;
     }

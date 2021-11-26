@@ -1,12 +1,11 @@
 /* Session Loading Five Atom CSS */
-
 .session_loader_box_five {
     width: 100% !important;
     max-width: 365px !important;
-    height: 144px !important;
+    height: 183px !important;
     background: #ffff 0% 0% no-repeat padding-box !important;
     box-shadow: 0px 3px 6px #00000029 !important;
-    border-radius: 6px !important;
+    border-radius: 10px !important;
     opacity: 0.8 !important;
     margin-bottom: 30px !important;
     padding: 0px 0px 0px 0px !important;
@@ -15,142 +14,36 @@
 }
 .session_loader_five_elem_one {
     x: 21 !important;
-    y: 61 !important;
-    width: 157px !important;
-    height: 24px !important;
-    border-radius: 8px !important;
+    y: 65 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
 }
 .session_loader_five_elem_two {
-    x: 21 !important;
-    y: 100 !important;
-    width: 157px !important;
-    height: 24px !important;
-    border-radius: 8px !important;
+    x: 208 !important;
+    y: 65 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
 }
 .session_loader_five_elem_three {
-    x: 188 !important;
-    y: 61 !important;
-    width: 157px !important;
-    height: 24px !important;
-    border-radius: 8px !important;
+    x: 20 !important;
+    y: 104 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
+}
+.session_loader_five_elem_four {
+    x: 208 !important;
+    y: 104 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
 }
 .session_loader_five_elem_five {
-    x: 188 !important;
-    y: 100 !important;
-    width: 157px !important;
-    height: 24px !important;
-    border-radius: 8px !important;
+    x: 20 !important;
+    y: 143 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
 }
-
-/* Session Loading Five Atom Media Query CSS */
-@media (width: 360px) {
-    .session_loader_five_elem_one {
-        width: 127px !important;
-    }
-    .session_loader_five_elem_two {
-        width: 127px !important;
-    }
-    .session_loader_five_elem_three {
-        x: 154 !important;
-        width: 127px !important;
-    }
-    .session_loader_five_elem_five {
-        x: 154 !important;
-        width: 127px !important;
-    }
-}
-@media (width: 411px) {
-    .session_loader_five_elem_one {
-        width: 147px !important;
-    }
-    .session_loader_five_elem_two {
-        width: 147px !important;
-    }
-    .session_loader_five_elem_three {
-        x: 178 !important;
-        width: 147px !important;
-    }
-    .session_loader_five_elem_five {
-        x: 178 !important;
-        width: 147px !important;
-    }
-}
-@media (width: 320px) {
-    .session_loader_five_elem_one {
-        width: 107px !important;
-    }
-    .session_loader_five_elem_two {
-        width: 107px !important;
-    }
-    .session_loader_five_elem_three {
-        x: 140 !important;
-        width: 107px !important;
-    }
-    .session_loader_five_elem_five {
-        x: 140 !important;
-        width: 107px !important;
-    }
-}
-@media (width: 375px) {
-    .session_loader_five_elem_one {
-        width: 132px !important;
-    }
-    .session_loader_five_elem_two {
-        width: 132px !important;
-    }
-    .session_loader_five_elem_three {
-        x: 160 !important;
-        width: 132px !important;
-    }
-    .session_loader_five_elem_five {
-        x: 160 !important;
-        width: 132px !important;
-    }
-}
-@media (width: 414px) {
-    .session_loader_five_elem_one {
-        width: 137px !important;
-    }
-    .session_loader_five_elem_two {
-        width: 137px !important;
-    }
-    .session_loader_five_elem_three {
-        x: 184 !important;
-        width: 137px !important;
-    }
-    .session_loader_five_elem_five {
-        x: 184 !important;
-        width: 137px !important;
-    }
-}
-@media (width: 280px) {
-    .session_loader_five_elem_one {
-        width: 90px !important;
-    }
-    .session_loader_five_elem_two {
-        width: 90px !important;
-    }
-    .session_loader_five_elem_three {
-        x: 124 !important;
-        width: 90px !important;
-    }
-    .session_loader_five_elem_five {
-        x: 124 !important;
-        width: 90px !important;
-    }
-}
-/* @media (width: 823px) {
-
-}
-@media (width: 812px) {
-
-}
-@media (width: 768px) {
-
-}
-@media (width: 1024px) {
-
-}
-@media (width: 1366px) {
-
-} */

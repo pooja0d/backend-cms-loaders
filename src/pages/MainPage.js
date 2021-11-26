@@ -16,6 +16,9 @@ import { Row, Col, Image, Button, Overlay } from "react-bootstrap"; // react-boo
 import "bootstrap/dist/css/bootstrap.min.css"; // Bootstrap CSS Import 
 import LoaderOneView from "../components/LoaderOneView"; // Loader One View Component Import
 import SessionLoadingView from "../components/SessionLoadingView"; // Session Loading View Component Import
+import AddExhibitorView from "../components/AddExhibitorView"; // Add Exhibitor View Component Import
+import ExhibitorDemoRoom from "../components/ExhibitorDemoRoom"; // Exhibitor Demo Room Component Import
+import ZoomPopUp from "../components/ZoomPopUp"; // Zoom Pop Up Component Import
 /**
  * @author: Pooja Dhamanekar
  * @function: MainPage
@@ -25,6 +28,9 @@ function MainPage(props) {
     <>
       <LoaderOneView />
       <SessionLoadingView />
+      <AddExhibitorView />
+      <ExhibitorDemoRoom />
+      <ZoomPopUp />
     </>
   );
 }

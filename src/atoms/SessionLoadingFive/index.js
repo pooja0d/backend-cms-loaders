@@ -23,10 +23,11 @@ import React, {
           type="card"
           className="session_loader_box_five"
         >
-          <rect rx="8" ry="8" className="session_loader_five_elem_one" />
-          <rect rx="8" ry="8" className="session_loader_five_elem_two" />
-          <rect rx="8" ry="8" className="session_loader_five_elem_three" />
-          <rect rx="8" ry="8" className="session_loader_five_elem_five" />
+          <rect rx="4" ry="4" className="session_loader_five_elem_one" />
+          <rect rx="4" ry="4" className="session_loader_five_elem_two" />
+          <rect rx="4" ry="4" className="session_loader_five_elem_three" />
+          <rect rx="4" ry="4" className="session_loader_five_elem_four" />
+          <rect rx="4" ry="4" className="session_loader_five_elem_five" />
         </ContentLoader>
       </>
     );

@@ -1,0 +1,73 @@
+/* Add Exhibitor Loading Five Atom CSS */
+
+.add_exh_loader_box_five_one {
+    width: 100% !important;
+    max-width: 266px !important;
+    height: 289px !important;
+    background: #ffff 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 10px !important;
+    opacity: 0.8 !important;
+    margin-bottom: 30px !important;
+    padding: 0px 0px 0px 0px !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+.add_exh_loader_five_elem_one {
+    x: 20 !important;
+    y: 89.62 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
+}
+.add_exh_loader_five_elem_two {
+    x: 48 !important;
+    y: 85.62 !important;
+    width: 198px !important;
+    height: 24px !important;
+}
+.add_exh_loader_five_elem_three {
+    x: 20 !important;
+    y: 145.04 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
+}
+.add_exh_loader_five_elem_four {
+    x: 48 !important;
+    y: 135.71 !important;
+    width: 127px !important;
+    height: 24px !important;
+}
+.add_exh_loader_five_elem_five {
+    x: 20 !important;
+    y: 195.14!important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
+}
+.add_exh_loader_five_elem_six {
+    x: 48 !important;
+    y: 185.8 !important;
+    width: 136px !important;
+    height: 24px !important;
+}
+.add_exh_loader_five_elem_seven {
+    x: 20 !important;
+    y: 239.9 !important;
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 4px !important;
+}
+.add_exh_loader_five_elem_eight {
+    x: 48 !important;
+    y: 235.9 !important;
+    width: 112px !important;
+    height: 24px !important;
+}
+/* Add Exhibitor Loading Five Atom Media Query CSS */
+@media (width: 280px) {
+    .add_exh_loader_five_elem_two {
+        width: 170px !important;
+    }
+}
