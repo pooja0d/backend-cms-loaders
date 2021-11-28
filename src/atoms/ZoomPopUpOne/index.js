@@ -23,8 +23,8 @@ import React, {
           type="card"
           className="zoom_pop_up_one_loader_box"
         >
-            <rect rx="8" ry="8" className="zoom_pop_up_one_elem_one" />
-            <rect rx="8" ry="8" className="zoom_pop_up_one_elem_two" />
+            <rect rx="8" ry="8" className="zoom_pop_up_one_elem_one_one" />
+            <rect rx="8" ry="8" className="zoom_pop_up_one_elem_two_one" />
         </ContentLoader>
       </>
     );

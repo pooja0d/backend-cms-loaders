@@ -19,6 +19,9 @@ import SessionLoadingView from "../components/SessionLoadingView"; // Session Lo
 import AddExhibitorView from "../components/AddExhibitorView"; // Add Exhibitor View Component Import
 import ExhibitorDemoRoom from "../components/ExhibitorDemoRoom"; // Exhibitor Demo Room Component Import
 import ZoomPopUp from "../components/ZoomPopUp"; // Zoom Pop Up Component Import
+import People from "../components/People"; // People Component Import
+import Exhibitor from "../components/Exhibitor"; // Exhibitor Component Import
+import Session from "../components/Session"; // Session Component Import
 /**
  * @author: Pooja Dhamanekar
  * @function: MainPage
@@ -31,6 +34,10 @@ function MainPage(props) {
       <AddExhibitorView />
       <ExhibitorDemoRoom />
       <ZoomPopUp />
+      {/* Mobile Screen Loaders  */}
+      <People />
+      <Exhibitor />
+      <Session />
     </>
   );
 }
